@@ -9,8 +9,12 @@ body {
   flex-direction: column;
   justify-content: center;
   height: 100vh;
+  text-align: center;
   background-color: rgba(185, 125, 241, 0.267);
 }
 h1 {
   color: purple;
+}
+div {
+  padding: 20px;
 }
